@@ -1,0 +1,11 @@
+{
+  "prefix_change": "Prefix change to : %prefix%",
+  "winrateMessage": "I currently have %win% win for %loose% lost (%purcent% % win)",
+
+  "winAddSucces": "The win has been added",
+  "looseAddSucces": "The loose has been added",
+
+  "follow_message": "thx for follow %username%",
+  "sub_message": "thx for sub %username%",
+  "bits_message": "thx for you bits %username% (%amount%)"
+}
